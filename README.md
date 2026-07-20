@@ -7,14 +7,16 @@
 </p>
 
 ### 🧩 About Me
-- 🎓 Student at *Ho Chi Minh City University of Technology (HCMUT)*
+
+- 🎓 Student at _Ho Chi Minh City University of Technology (HCMUT)_
 - 💻 Passionate about building robust backend systems, optimizing Cloud infrastructure, and setting up Observability pipelines.
-- 🎯 Goal: Become a professional *Software Engineer / DevOps Engineer*.
+- 🎯 Goal: Become a professional _Software Engineer / DevOps Engineer_.
 - ⚡ Hobbies: Coding, exploring systems, playing badminton, and traveling 🏸✈️
 
 ---
 
 ### ⚙️ My Skills
+
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -33,6 +35,7 @@
 ---
 
 ### 🧱 Favorite Tools & Infrastructure
+
 <p align="left">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
@@ -40,14 +43,6 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
-</p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thu-sunrise&show_icons=true&theme=radical&count_private=true" alt="Thu-sunrise's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thu-sunrise&layout=compact&theme=radical" alt="Top Languages" width="48%" />
 </p>
 
 ---
