@@ -6,15 +6,15 @@
   </a>
 </p>
 
-### 🧩 Giới thiệu
-- 🎓 Sinh viên *Trường Đại học Bách khoa - ĐHQG TP.HCM (HCMUT)*
-- 💻 Đam mê xây dựng các hệ thống backend mạnh mẽ, tối ưu hạ tầng Cloud và thiết lập hệ thống giám sát (Observability).
-- 🎯 Mục tiêu: Trở thành một *Software Engineer / DevOps Engineer chuyên nghiệp*.
-- ⚡ Sở thích: Coding, nghiên cứu hệ thống, đánh cầu lông và đi đây đi đó 🏸✈️
+### 🧩 About Me
+- 🎓 Student at *Ho Chi Minh City University of Technology (HCMUT)*
+- 💻 Passionate about building robust backend systems, optimizing Cloud infrastructure, and setting up Observability pipelines.
+- 🎯 Goal: Become a professional *Software Engineer / DevOps Engineer*.
+- ⚡ Hobbies: Coding, exploring systems, playing badminton, and traveling 🏸✈️
 
 ---
 
-### ⚙️ Kỹ năng của tôi
+### ⚙️ My Skills
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -32,7 +32,7 @@
 
 ---
 
-### 🧱 Công cụ & Hạ tầng yêu thích
+### 🧱 Favorite Tools & Infrastructure
 <p align="left">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
@@ -44,7 +44,7 @@
 
 ---
 
-### 📊 Thống kê hoạt động
+### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Thu-sunrise&show_icons=true&theme=radical&count_private=true" alt="Thu-sunrise's GitHub stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thu-sunrise&layout=compact&theme=radical" alt="Top Languages" width="48%" />
@@ -52,12 +52,10 @@
 
 ---
 
-### 🌐 Kết nối với tôi
-<p align="left">
-  <a href="https://linkedin.com/in/ho-thi-minh-thu-ba8a6a3a8" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:hothiminhthu.98.2019@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+### 📬 Connect With Me
+
+---
+
+📧 Email: [hothiminhthu.98.2019@gmail.com](mailto:hothiminhthu.98.2019@gmail.com)  
+🔗 LinkedIn: [https://linkedin.com/in/ho-thi-minh-thu-ba8a6a3a8](https://linkedin.com/in/ho-thi-minh-thu-ba8a6a3a8)  
+🌐 Portfolio: [https://aki-sunrise.online](https://aki-sunrise.online)
